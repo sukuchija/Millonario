@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Dónde nació la democracia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Grecia"
+      },
+      {
+        "label": "B",
+        "text": "Egipto"
+      },
+      {
+        "label": "C",
+        "text": "Roma"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Quién descubrió América en 1492?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Magallanes"
+      },
+      {
+        "label": "B",
+        "text": "Colón"
+      },
+      {
+        "label": "C",
+        "text": "Cook"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Qué civilización construyó pirámides?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mesopotamia"
+      },
+      {
+        "label": "B",
+        "text": "Maya"
+      },
+      {
+        "label": "C",
+        "text": "Egipcia"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Quién fue el primer emperador francés?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Napoleón"
+      },
+      {
+        "label": "B",
+        "text": "César"
+      },
+      {
+        "label": "C",
+        "text": "Lincoln"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿En qué continente nació el ser humano?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Asia"
+      },
+      {
+        "label": "B",
+        "text": "África"
+      },
+      {
+        "label": "C",
+        "text": "Europa"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Qué muro cayó en 1989?",
+    "options": [
+      {
+        "label": "A",
+        "text": "China"
+      },
+      {
+        "label": "B",
+        "text": "Jerusalén"
+      },
+      {
+        "label": "C",
+        "text": "Berlín"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Quién lideró la independencia de Colombia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bolívar"
+      },
+      {
+        "label": "B",
+        "text": "San Martín"
+      },
+      {
+        "label": "C",
+        "text": "Hidalgo"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Qué guerra duró de 1939 a 1945?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Primera Guerra"
+      },
+      {
+        "label": "B",
+        "text": "Segunda Guerra"
+      },
+      {
+        "label": "C",
+        "text": "Guerra Fría"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Qué civilización construyó Machu Picchu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Inca"
+      },
+      {
+        "label": "B",
+        "text": "Azteca"
+      },
+      {
+        "label": "C",
+        "text": "Maya"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Quién fue Julio César?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rey griego"
+      },
+      {
+        "label": "B",
+        "text": "Romano"
+      },
+      {
+        "label": "C",
+        "text": "Egipcio"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Qué imperio tuvo gladiadores?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Romano"
+      },
+      {
+        "label": "B",
+        "text": "Persa"
+      },
+      {
+        "label": "C",
+        "text": "Griego"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Qué barco llevó a Colón?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Victoria"
+      },
+      {
+        "label": "B",
+        "text": "Santa María"
+      },
+      {
+        "label": "C",
+        "text": "Titanic"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Dónde vivían los faraones?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Egipto"
+      },
+      {
+        "label": "B",
+        "text": "India"
+      },
+      {
+        "label": "C",
+        "text": "China"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Historia",
+    "color": "#FFD700",
+    "question": "¿Qué revolución inició en 1789?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Industrial"
+      },
+      {
+        "label": "B",
+        "text": "Francesa"
+      },
+      {
+        "label": "C",
+        "text": "Rusa"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Quién fue Cleopatra?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Reina egipcia"
+      },
+      {
+        "label": "B",
+        "text": "Reina inglesa"
+      },
+      {
+        "label": "C",
+        "text": "Reina romana"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Quién llegó primero a la Luna?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aldrin"
+      },
+      {
+        "label": "B",
+        "text": "Armstrong"
+      },
+      {
+        "label": "C",
+        "text": "Gagarin"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Qué continente conquistaron los españoles?",
+    "options": [
+      {
+        "label": "A",
+        "text": "América"
+      },
+      {
+        "label": "B",
+        "text": "Oceanía"
+      },
+      {
+        "label": "C",
+        "text": "África"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Qué pueblo construyó el Coliseo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Griegos"
+      },
+      {
+        "label": "B",
+        "text": "Romanos"
+      },
+      {
+        "label": "C",
+        "text": "Vikingos"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Qué guerra enfrentó Norte y Sur de EE.UU.?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Civil"
+      },
+      {
+        "label": "B",
+        "text": "Mundial"
+      },
+      {
+        "label": "C",
+        "text": "Fría"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Quién escribió la Ilíada?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sócrates"
+      },
+      {
+        "label": "B",
+        "text": "Platón"
+      },
+      {
+        "label": "C",
+        "text": "Homero"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Quién pintó la Mona Lisa?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Van Gogh"
+      },
+      {
+        "label": "B",
+        "text": "Leonardo da Vinci"
+      },
+      {
+        "label": "C",
+        "text": "Picasso"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Qué instrumento tiene 88 teclas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Piano"
+      },
+      {
+        "label": "B",
+        "text": "Violín"
+      },
+      {
+        "label": "C",
+        "text": "Flauta"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Qué color resulta de mezclar azul y amarillo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Naranja"
+      },
+      {
+        "label": "B",
+        "text": "Morado"
+      },
+      {
+        "label": "C",
+        "text": "Verde"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Quién pintó La noche estrellada?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Van Gogh"
+      },
+      {
+        "label": "B",
+        "text": "Dalí"
+      },
+      {
+        "label": "C",
+        "text": "Monet"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Cuál es el arte de moldear barro?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pintura"
+      },
+      {
+        "label": "B",
+        "text": "Cerámica"
+      },
+      {
+        "label": "C",
+        "text": "Grabado"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Quién pintó Guernica?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dalí"
+      },
+      {
+        "label": "B",
+        "text": "Botero"
+      },
+      {
+        "label": "C",
+        "text": "Picasso"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Qué instrumento tiene seis cuerdas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Guitarra"
+      },
+      {
+        "label": "B",
+        "text": "Trompeta"
+      },
+      {
+        "label": "C",
+        "text": "Arpa"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Qué estilo creó Salvador Dalí?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cubismo"
+      },
+      {
+        "label": "B",
+        "text": "Surrealismo"
+      },
+      {
+        "label": "C",
+        "text": "Barroco"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Qué se usa para esculpir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cincel"
+      },
+      {
+        "label": "B",
+        "text": "Pincel"
+      },
+      {
+        "label": "C",
+        "text": "Lápiz"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Qué país es famoso por el origami?",
+    "options": [
+      {
+        "label": "A",
+        "text": "China"
+      },
+      {
+        "label": "B",
+        "text": "Japón"
+      },
+      {
+        "label": "C",
+        "text": "India"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Quién pintó Las Meninas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dalí"
+      },
+      {
+        "label": "B",
+        "text": "Picasso"
+      },
+      {
+        "label": "C",
+        "text": "Velázquez"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "category": "Arte y Cultura",
+    "color": "#9b59b6",
+    "question": "¿Cuál es una danza española?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tango"
+      },
+      {
+        "label": "B",
+        "text": "Flamenco"
+      },
+      {
+        "label": "C",
+        "text": "Salsa"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué arte usa cámaras?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Fotografía"
+      },
+      {
+        "label": "B",
+        "text": "Teatro"
+      },
+      {
+        "label": "C",
+        "text": "Escultura"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué instrumento sopla el músico?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tambor"
+      },
+      {
+        "label": "B",
+        "text": "Saxofón"
+      },
+      {
+        "label": "C",
+        "text": "Piano"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué color simboliza paz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Blanco"
+      },
+      {
+        "label": "B",
+        "text": "Rojo"
+      },
+      {
+        "label": "C",
+        "text": "Negro"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué artista fue colombiano?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Botero"
+      },
+      {
+        "label": "B",
+        "text": "Monet"
+      },
+      {
+        "label": "C",
+        "text": "Renoir"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué arte representa personajes en escena?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Teatro"
+      },
+      {
+        "label": "B",
+        "text": "Danza"
+      },
+      {
+        "label": "C",
+        "text": "Pintura"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué material usa un escultor?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Papel"
+      },
+      {
+        "label": "B",
+        "text": "Mármol"
+      },
+      {
+        "label": "C",
+        "text": "Tela"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué pintor cortó parte de su oreja?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Picasso"
+      },
+      {
+        "label": "B",
+        "text": "Van Gogh"
+      },
+      {
+        "label": "C",
+        "text": "Goya"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Cuál es un instrumento de percusión?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Violín"
+      },
+      {
+        "label": "B",
+        "text": "Clarinete"
+      },
+      {
+        "label": "C",
+        "text": "Tambor"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Cuál es el planeta rojo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marte"
+      },
+      {
+        "label": "B",
+        "text": "Venus"
+      },
+      {
+        "label": "C",
+        "text": "Júpiter"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué gas respiramos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "CO ₂"
+      },
+      {
+        "label": "B",
+        "text": "Oxígeno"
+      },
+      {
+        "label": "C",
+        "text": "Helio"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué órgano bombea sangre?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pulmón"
+      },
+      {
+        "label": "B",
+        "text": "Riñón"
+      },
+      {
+        "label": "C",
+        "text": "Corazón"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Cuánta agua hierve a nivel del mar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100 °C"
+      },
+      {
+        "label": "B",
+        "text": "50 °C"
+      },
+      {
+        "label": "C",
+        "text": "80 °C"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Cuál es el satélite de la Tierra?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marte"
+      },
+      {
+        "label": "B",
+        "text": "Luna"
+      },
+      {
+        "label": "C",
+        "text": "Sol"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué estrella ilumina la Tierra?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Luna"
+      },
+      {
+        "label": "B",
+        "text": "Venus"
+      },
+      {
+        "label": "C",
+        "text": "Sol"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué animal es mamífero?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Delfín"
+      },
+      {
+        "label": "B",
+        "text": "Tiburón"
+      },
+      {
+        "label": "C",
+        "text": "Gallina"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué planeta es el más grande?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Saturno"
+      },
+      {
+        "label": "B",
+        "text": "Júpiter"
+      },
+      {
+        "label": "C",
+        "text": "Marte"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué estado tiene forma fija?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sólido"
+      },
+      {
+        "label": "B",
+        "text": "Líquido"
+      },
+      {
+        "label": "C",
+        "text": "Gas"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Ciencia y Naturaleza",
+    "color": "#2ecc71",
+    "question": "¿Qué vitamina produce el Sol?",
+    "options": [
+      {
+        "label": "A",
+        "text": "C"
+      },
+      {
+        "label": "B",
+        "text": "D"
+      },
+      {
+        "label": "C",
+        "text": "B12"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Cuál es el metal líquido?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hierro"
+      },
+      {
+        "label": "B",
+        "text": "Plata"
+      },
+      {
+        "label": "C",
+        "text": "Mercurio"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Qué necesita una planta para fotosíntesis?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Oscuridad"
+      },
+      {
+        "label": "B",
+        "text": "Luz"
+      },
+      {
+        "label": "C",
+        "text": "Arena"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Cuál es el símbolo del agua?",
+    "options": [
+      {
+        "label": "A",
+        "text": "H ₂ O"
+      },
+      {
+        "label": "B",
+        "text": "CO ₂"
+      },
+      {
+        "label": "C",
+        "text": "O ₂"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Qué animal pone huevos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Perro"
+      },
+      {
+        "label": "B",
+        "text": "Gallina"
+      },
+      {
+        "label": "C",
+        "text": "Gato"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Qué planeta tiene anillos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Saturno"
+      },
+      {
+        "label": "B",
+        "text": "Marte"
+      },
+      {
+        "label": "C",
+        "text": "Venus"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Qué órgano usamos para respirar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hígado"
+      },
+      {
+        "label": "B",
+        "text": "Pulmones"
+      },
+      {
+        "label": "C",
+        "text": "Estómago"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Qué fuerza nos mantiene en el suelo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gravedad"
+      },
+      {
+        "label": "B",
+        "text": "Magnetismo"
+      },
+      {
+        "label": "C",
+        "text": "Electricidad"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Qué sangre lleva oxígeno?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Venosa"
+      },
+      {
+        "label": "B",
+        "text": "Arterial"
+      },
+      {
+        "label": "C",
+        "text": "Linfática"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Qué animal es un anfibio?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rana"
+      },
+      {
+        "label": "B",
+        "text": "Lagarto"
+      },
+      {
+        "label": "C",
+        "text": "Águila"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Qué planeta está más cerca del Sol?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Venus"
+      },
+      {
+        "label": "B",
+        "text": "Tierra"
+      },
+      {
+        "label": "C",
+        "text": "Mercurio"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Cuál es el océano más grande?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pacífico"
+      },
+      {
+        "label": "B",
+        "text": "Atlántico"
+      },
+      {
+        "label": "C",
+        "text": "Índico"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Capital de Colombia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Medellín"
+      },
+      {
+        "label": "B",
+        "text": "Bogotá"
+      },
+      {
+        "label": "C",
+        "text": "Cali"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Qué continente es el más grande?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Europa"
+      },
+      {
+        "label": "B",
+        "text": "África"
+      },
+      {
+        "label": "C",
+        "text": "Asia"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Qué río es el más largo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Amazonas"
+      },
+      {
+        "label": "B",
+        "text": "Nilo"
+      },
+      {
+        "label": "C",
+        "text": "Paraná"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Dónde está la Torre Eiffel?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Italia"
+      },
+      {
+        "label": "B",
+        "text": "Francia"
+      },
+      {
+        "label": "C",
+        "text": "España"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Qué desierto es el más seco?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sahara"
+      },
+      {
+        "label": "B",
+        "text": "Gobi"
+      },
+      {
+        "label": "C",
+        "text": "Atacama"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Cuántos continentes hay?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Siete"
+      },
+      {
+        "label": "B",
+        "text": "Cinco"
+      },
+      {
+        "label": "C",
+        "text": "Seis"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "category": "Geografía",
+    "color": "#3498db",
+    "question": "¿Capital de Japón?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Seúl"
+      },
+      {
+        "label": "B",
+        "text": "Tokio"
+      },
+      {
+        "label": "C",
+        "text": "Pekín"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Qué país tiene forma de bota?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Italia"
+      },
+      {
+        "label": "B",
+        "text": "Grecia"
+      },
+      {
+        "label": "C",
+        "text": "Portugal"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Qué país tiene más población?",
+    "options": [
+      {
+        "label": "A",
+        "text": "EE. UU."
+      },
+      {
+        "label": "B",
+        "text": "India"
+      },
+      {
+        "label": "C",
+        "text": "Canadá"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Cuál es el continente blanco?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Oceanía"
+      },
+      {
+        "label": "B",
+        "text": "Europa"
+      },
+      {
+        "label": "C",
+        "text": "Antártida"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Dónde está el Everest?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Andes"
+      },
+      {
+        "label": "B",
+        "text": "Himalaya"
+      },
+      {
+        "label": "C",
+        "text": "Alpes"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Qué país tiene canguros?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Australia"
+      },
+      {
+        "label": "B",
+        "text": "Brasil"
+      },
+      {
+        "label": "C",
+        "text": "Perú"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Capital de Brasil?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Río"
+      },
+      {
+        "label": "B",
+        "text": "Brasilia"
+      },
+      {
+        "label": "C",
+        "text": "São Paulo"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Cuál es el mayor país?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rusia"
+      },
+      {
+        "label": "B",
+        "text": "Canadá"
+      },
+      {
+        "label": "C",
+        "text": "China"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Qué mar separa Europa y África?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Caribe"
+      },
+      {
+        "label": "B",
+        "text": "Mediterráneo"
+      },
+      {
+        "label": "C",
+        "text": "Negro"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿En qué continente está Egipto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "África"
+      },
+      {
+        "label": "B",
+        "text": "Asia"
+      },
+      {
+        "label": "C",
+        "text": "Europa"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Qué país tiene forma de hexágono?",
+    "options": [
+      {
+        "label": "A",
+        "text": "España"
+      },
+      {
+        "label": "B",
+        "text": "Francia"
+      },
+      {
+        "label": "C",
+        "text": "Bélgica"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Qué línea divide la Tierra?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ecuador"
+      },
+      {
+        "label": "B",
+        "text": "Trópico"
+      },
+      {
+        "label": "C",
+        "text": "Meridiano"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Capital de Argentina?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Córdoba"
+      },
+      {
+        "label": "B",
+        "text": "Rosario"
+      },
+      {
+        "label": "C",
+        "text": "Buenos Aires"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Cuántos jugadores tiene un equipo de fútbol?",
+    "options": [
+      {
+        "label": "A",
+        "text": "11"
+      },
+      {
+        "label": "B",
+        "text": "10"
+      },
+      {
+        "label": "C",
+        "text": "12"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Qué deporte usa una raqueta?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Golf"
+      },
+      {
+        "label": "B",
+        "text": "Tenis"
+      },
+      {
+        "label": "C",
+        "text": "Rugby"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Dónde se encesta el balón?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Arco"
+      },
+      {
+        "label": "B",
+        "text": "Canasta"
+      },
+      {
+        "label": "C",
+        "text": "Hoyo"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Qué país creó el judo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Japón"
+      },
+      {
+        "label": "B",
+        "text": "China"
+      },
+      {
+        "label": "C",
+        "text": "Corea"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Qué deporte practica Nadal?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Golf"
+      },
+      {
+        "label": "B",
+        "text": "Tenis"
+      },
+      {
+        "label": "C",
+        "text": "Ciclismo"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "category": "Deportes",
+    "color": "#e67e22",
+    "question": "¿Cuántos anillos olímpicos hay?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cuatro"
+      },
+      {
+        "label": "B",
+        "text": "Seis"
+      },
+      {
+        "label": "C",
+        "text": "Cinco"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué deporte usa guantes de boxeo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Boxeo"
+      },
+      {
+        "label": "B",
+        "text": "Karate"
+      },
+      {
+        "label": "C",
+        "text": "Esgrima"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué deporte practica Michael Phelps?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Atletismo"
+      },
+      {
+        "label": "B",
+        "text": "Natación"
+      },
+      {
+        "label": "C",
+        "text": "Remo"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué deporte usa bate?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Béisbol"
+      },
+      {
+        "label": "B",
+        "text": "Fútbol"
+      },
+      {
+        "label": "C",
+        "text": "Hockey"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué país ganó el Mundial 2022?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Francia"
+      },
+      {
+        "label": "B",
+        "text": "Argentina"
+      },
+      {
+        "label": "C",
+        "text": "Brasil"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué deporte juega LeBron James?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Béisbol"
+      },
+      {
+        "label": "B",
+        "text": "Tenis"
+      },
+      {
+        "label": "C",
+        "text": "Baloncesto"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué deporte usa red y voleo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rugby"
+      },
+      {
+        "label": "B",
+        "text": "Voleibol"
+      },
+      {
+        "label": "C",
+        "text": "Boxeo"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué color tiene la tarjeta de expulsión?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Roja"
+      },
+      {
+        "label": "B",
+        "text": "Azul"
+      },
+      {
+        "label": "C",
+        "text": "Verde"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué deporte usa bicicleta?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Atletismo"
+      },
+      {
+        "label": "B",
+        "text": "Ciclismo"
+      },
+      {
+        "label": "C",
+        "text": "Remo"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Cuántos sets gana un partido de tenis masculino (Grand Slam )?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tres"
+      },
+      {
+        "label": "B",
+        "text": "Cinco"
+      },
+      {
+        "label": "C",
+        "text": "Dos"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué deporte tiene un hoyo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Golf"
+      },
+      {
+        "label": "B",
+        "text": "Baloncesto"
+      },
+      {
+        "label": "C",
+        "text": "Natación"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué país inventó el fútbol moderno?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Inglaterra"
+      },
+      {
+        "label": "B",
+        "text": "Brasil"
+      },
+      {
+        "label": "C",
+        "text": "Italia"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué deporte usa florete?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Karate"
+      },
+      {
+        "label": "B",
+        "text": "Esgrima"
+      },
+      {
+        "label": "C",
+        "text": "Boxeo"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué colombiano ganó el Tour de Francia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Egan Bernal"
+      },
+      {
+        "label": "B",
+        "text": "Nairo Quintana"
+      },
+      {
+        "label": "C",
+        "text": "Rigoberto Urán"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué deporte practica Lionel Messi?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tenis"
+      },
+      {
+        "label": "B",
+        "text": "Baloncesto"
+      },
+      {
+        "label": "C",
+        "text": "Fútbol"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Quién vive en una piña bajo el mar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bob Esponja"
+      },
+      {
+        "label": "B",
+        "text": "Mickey"
+      },
+      {
+        "label": "C",
+        "text": "Shrek"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué superhéroe usa un martillo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hulk"
+      },
+      {
+        "label": "B",
+        "text": "Thor"
+      },
+      {
+        "label": "C",
+        "text": "Flash"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿ Quién creó Mickey Mouse?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pixar"
+      },
+      {
+        "label": "B",
+        "text": "Disney"
+      },
+      {
+        "label": "C",
+        "text": "DreamWorks"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Cómo se llama el mago de Hogwarts?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Harry Potter"
+      },
+      {
+        "label": "B",
+        "text": "Frodo"
+      },
+      {
+        "label": "C",
+        "text": "Percy"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué ogro es verde?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hulk"
+      },
+      {
+        "label": "B",
+        "text": "Shrek"
+      },
+      {
+        "label": "C",
+        "text": "Sulley"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué juguete dice \"Al infinito y más allá\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Woody"
+      },
+      {
+        "label": "B",
+        "text": "Rex"
+      },
+      {
+        "label": "C",
+        "text": "Buzz Lightyear"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué princesa tiene una zapatilla de cristal?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cenicienta"
+      },
+      {
+        "label": "B",
+        "text": "Ariel"
+      },
+      {
+        "label": "C",
+        "text": "Bella"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué animal es Pikachu ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gato"
+      },
+      {
+        "label": "B",
+        "text": "Ratón eléctrico"
+      },
+      {
+        "label": "C",
+        "text": "Conejo"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué saga tiene un anillo único?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Harry Potter"
+      },
+      {
+        "label": "B",
+        "text": "Star Wars"
+      },
+      {
+        "label": "C",
+        "text": "El Señor de los Anillos"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué héroe usa escudo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Iron Man"
+      },
+      {
+        "label": "B",
+        "text": "Capitán América"
+      },
+      {
+        "label": "C",
+        "text": "Batman"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué estudio hizo Frozen?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pixar"
+      },
+      {
+        "label": "B",
+        "text": "Universal"
+      },
+      {
+        "label": "C",
+        "text": "Disney"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Quién vive en Ciudad Gótica?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Superman"
+      },
+      {
+        "label": "B",
+        "text": "Batman"
+      },
+      {
+        "label": "C",
+        "text": "Flash"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué fontanero viste de rojo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mario"
+      },
+      {
+        "label": "B",
+        "text": "Luigi"
+      },
+      {
+        "label": "C",
+        "text": "Sonic"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué personaje come espinacas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Popeye"
+      },
+      {
+        "label": "B",
+        "text": "Garfield"
+      },
+      {
+        "label": "C",
+        "text": "Tom"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué película tiene dinosaurios clonados?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jurassic Park"
+      },
+      {
+        "label": "B",
+        "text": "Avatar"
+      },
+      {
+        "label": "C",
+        "text": "Titanic"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué mago tiene una cicatriz en forma de rayo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Merlin"
+      },
+      {
+        "label": "B",
+        "text": "Harry Potter"
+      },
+      {
+        "label": "C",
+        "text": "Gandalf"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué videojuego tiene bloques?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Minecraft"
+      },
+      {
+        "label": "B",
+        "text": "FIFA"
+      },
+      {
+        "label": "C",
+        "text": "Roblox"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué muñeca es famosa de Mattel?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nancy"
+      },
+      {
+        "label": "B",
+        "text": "Barbie"
+      },
+      {
+        "label": "C",
+        "text": "Bratz"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Quién es el mejor amigo de Shrek?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Burro"
+      },
+      {
+        "label": "B",
+        "text": "Gato"
+      },
+      {
+        "label": "C",
+        "text": "Dragón"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "category": "Entretenimiento",
+    "color": "#ff6b81",
+    "question": "¿Qué personaje usa capa roja y vuela?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Batman"
+      },
+      {
+        "label": "B",
+        "text": "Iron Man"
+      },
+      {
+        "label": "C",
+        "text": "Superman"
+      }
+    ]
+  }
+]

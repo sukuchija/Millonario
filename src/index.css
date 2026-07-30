@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
+:root {
+  --font-main: 'Inter', sans-serif;
+  --bg-color: #0b0f19;
+  --text-light: #f8fafc;
+  --glass-bg: rgba(255, 255, 255, 0.05);
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --gold: #FFD700;
+  --gold-glow: rgba(255, 215, 0, 0.5);
+  --correct: #2ecc71;
+  --correct-glow: rgba(46, 204, 113, 0.6);
+  --incorrect: #e74c3c;
+  --incorrect-glow: rgba(231, 76, 60, 0.6);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-main);
+  background: radial-gradient(circle at center, #1a233a 0%, var(--bg-color) 100%);
+  color: var(--text-light);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Glassmorphism Utils */
+.glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 16px;
+}
+
+/* App Container */
+.app-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Logo / Title */
+.title {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background: linear-gradient(135deg, var(--gold) 0%, #ff8c00 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 10px var(--gold-glow));
+  margin-bottom: 2rem;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% { filter: drop-shadow(0 0 10px var(--gold-glow)); }
+  50% { filter: drop-shadow(0 0 20px var(--gold-glow)); }
+  100% { filter: drop-shadow(0 0 10px var(--gold-glow)); }
+}
+
+/* Category Selector */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.category-card {
+  padding: 2rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.category-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: var(--cat-color);
+  opacity: 0.1;
+  transition: opacity 0.3s ease;
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+  border-color: var(--cat-color);
+  box-shadow: 0 0 20px var(--cat-color);
+}
+
+.category-card:hover::before {
+  opacity: 0.2;
+}
+
+.category-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--cat-color);
+  text-shadow: 0 0 10px var(--cat-color);
+}
+
+/* Question Board */
+.question-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.question-box {
+  width: 100%;
+  padding: 2.5rem 2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 3rem;
+  position: relative;
+  border: 2px solid var(--cat-color);
+  box-shadow: inset 0 0 20px rgba(0,0,0,0.5), 0 0 20px var(--cat-color);
+  background: linear-gradient(180deg, rgba(255,255,255,0.05) 0%, rgba(0,0,0,0.4) 100%);
+}
+
+.question-box::before, .question-box::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 40px;
+  height: 2px;
+  background: var(--cat-color);
+}
+.question-box::before { left: -40px; }
+.question-box::after { right: -40px; }
+
+.options-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  width: 100%;
+  max-width: 800px;
+}
+
+.option-btn {
+  background: linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(255,255,255,0.05) 50%, rgba(0,0,0,0.6) 100%);
+  border: 1px solid var(--cat-color);
+  padding: 1.2rem 2rem;
+  border-radius: 30px;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 600;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
+
+.option-btn:hover {
+  background: rgba(255,255,255,0.1);
+  box-shadow: 0 0 15px var(--cat-color);
+}
+
+.option-letter {
+  color: var(--gold);
+  margin-right: 1.5rem;
+  font-weight: 800;
+}
+
+.option-btn.selected {
+  background: var(--gold);
+  color: black;
+  border-color: var(--gold);
+  box-shadow: 0 0 20px var(--gold-glow);
+  animation: blink 0.5s infinite;
+}
+.option-btn.selected .option-letter { color: black; }
+
+.option-btn.correct {
+  background: var(--correct);
+  color: white;
+  border-color: var(--correct);
+  box-shadow: 0 0 20px var(--correct-glow);
+  animation: none;
+}
+.option-btn.correct .option-letter { color: white; }
+
+.option-btn.incorrect {
+  background: var(--incorrect);
+  color: white;
+  border-color: var(--incorrect);
+  box-shadow: 0 0 20px var(--incorrect-glow);
+  animation: none;
+}
+.option-btn.incorrect .option-letter { color: white; }
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.7; }
+  100% { opacity: 1; }
+}
+
+/* Controls */
+.controls {
+  margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.btn {
+  padding: 0.8rem 1.5rem;
+  border-radius: 8px;
+  border: none;
+  background: var(--glass-bg);
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.3s;
+  border: 1px solid var(--glass-border);
+}
+
+.btn:hover {
+  background: rgba(255,255,255,0.15);
+}
+
+.btn-primary {
+  background: var(--cat-color);
+  color: #fff;
+  border-color: transparent;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+}
+.btn-primary:hover {
+  background: var(--cat-color);
+  filter: brightness(1.2);
+  box-shadow: 0 0 15px var(--cat-color);
+}
+
+.category-card.roulette-highlight { transform: scale(1.05); border-color: var(--cat-color); box-shadow: 0 0 30px var(--cat-color); z-index: 10; }
+.category-card.roulette-highlight::before { opacity: 0.3; background: #fff; }
+.category-card.roulette-highlight .category-title { color: #fff; text-shadow: 0 0 20px var(--cat-color); }
